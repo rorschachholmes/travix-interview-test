@@ -111,4 +111,4 @@ Please clone this project then create your own repository from it. Do not fork/b
 
  **N.B. :** To evaluate this solution, *lombok.jar* needs to be executed for the IDE. It can be downloaded at https://projectlombok.org/download. Once installed, please restart the ide.
  
-**Programming Style : ** Reactive Programming using Spring WebFlux.
+**Programming Style :** Reactive Programming using Spring WebFlux.
