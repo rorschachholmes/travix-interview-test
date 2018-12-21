@@ -1,0 +1,7 @@
+{
+	"departureDate": "2018-12-22",
+	"returnDate": "2018-12-31",
+	"origin": "LHR",
+	"destination": "AMS",
+	"numberOfPassengers": 4
+}

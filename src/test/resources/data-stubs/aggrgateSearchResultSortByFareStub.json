@@ -1,0 +1,92 @@
+[
+	{
+		"airline": "Emirates",
+		"supplier": "CrazyAir",
+		"fare": 25.45,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Emirates",
+		"supplier": "ToughJet",
+		"fare": 25.56,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T06:46:48.14",
+		"arrivalDate": "2018-12-31T06:46:48.14"
+	},
+	{
+		"airline": "Swiss Air",
+		"supplier": "CrazyAir",
+		"fare": 25.68,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Swiss Air",
+		"supplier": "ToughJet",
+		"fare": 27.97,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T06:46:48.14",
+		"arrivalDate": "2018-12-31T06:46:48.14"
+	},
+	{
+		"airline": "British Airways",
+		"supplier": "CrazyAir",
+		"fare": 30.34,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "British Airways",
+		"supplier": "ToughJet",
+		"fare": 30.4,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T06:46:48.14",
+		"arrivalDate": "2018-12-31T06:46:48.14"
+	},
+	{
+		"airline": "Lufthansa",
+		"supplier": "ToughJet",
+		"fare": 45.34,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T06:46:48.14",
+		"arrivalDate": "2018-12-31T06:46:48.14"
+	},
+	{
+		"airline": "Lufthansa",
+		"supplier": "CrazyAir",
+		"fare": 50.12,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Nordic Air",
+		"supplier": "CrazyAir",
+		"fare": 50.34,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Nordic Air",
+		"supplier": "ToughJet",
+		"fare": 52.01,
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T06:46:48.14",
+		"arrivalDate": "2018-12-31T06:46:48.14"
+	}
+]

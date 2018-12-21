@@ -1,0 +1,52 @@
+[
+	{
+		"carrier": "British Airways",
+		"basePrice": 30.349876346,
+		"tax": 1.576787687,
+		"discount": 5.0,
+		"departureAirportName": "LHR",
+		"arrivalAirportName": "AMS",
+		"outboundDateTime": "2018-12-21T06:46:48.140Z",
+		"inboundDateTime": "2018-12-31T06:46:48.140Z"
+	},
+	{
+		"carrier": "Lufthansa",
+		"basePrice": 50.12146777456,
+		"tax": 0.235475688,
+		"discount": 10.0,
+		"departureAirportName": "LHR",
+		"arrivalAirportName": "AMS",
+		"outboundDateTime": "2018-12-21T06:46:48.140Z",
+		"inboundDateTime": "2018-12-31T06:46:48.140Z"
+	},
+	{
+		"carrier": "Swiss Air",
+		"basePrice": 25.68787978,
+		"tax": 3.5756877687,
+		"discount": 5.0,
+		"departureAirportName": "LHR",
+		"arrivalAirportName": "AMS",
+		"outboundDateTime": "2018-12-21T06:46:48.140Z",
+		"inboundDateTime": "2018-12-31T06:46:48.140Z"
+	},
+	{
+		"carrier": "Nordic Air",
+		"basePrice": 50.3467667687,
+		"tax": 1.668657534,
+		"discount": 0.0,
+		"departureAirportName": "LHR",
+		"arrivalAirportName": "AMS",
+		"outboundDateTime": "2018-12-21T06:46:48.140Z",
+		"inboundDateTime": "2018-12-31T06:46:48.140Z"
+	},
+	{
+		"carrier": "Emirates",
+		"basePrice": 25.4545437574,
+		"tax": 2.65453532,
+		"discount": 10.0,
+		"departureAirportName": "LHR",
+		"arrivalAirportName": "AMS",
+		"outboundDateTime": "2018-12-21T06:46:48.140Z",
+		"inboundDateTime": "2018-12-31T06:46:48.140Z"
+	}
+]

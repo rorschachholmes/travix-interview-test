@@ -1,0 +1,47 @@
+[
+	{
+		"airline": "British Airways",
+		"price": 30.349876346,
+		"cabinclass": "E",
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Lufthansa",
+		"price": 50.1214677756,
+		"cabinclass": "B",
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Swiss Air",
+		"price": 25.68787978432,
+		"cabinclass": "E",
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Nordic Air",
+		"price": 50.3467667687,
+		"cabinclass": "B",
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	},
+	{
+		"airline": "Emirates",
+		"price": 25.4545437574,
+		"cabinclass": "E",
+		"departureAirportCode": "LHR",
+		"destinationAirportCode": "AMS",
+		"departureDate": "2018-12-21T12:03:35.922",
+		"arrivalDate": "2018-12-31T12:03:35.922"
+	}
+]
